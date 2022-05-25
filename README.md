@@ -36,8 +36,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor]([https://www.frontendmentor.io/solutions/stats-preview-card-PjU9dh_PHf](https://www.frontendmentor.io/solutions/3columnpreviewcard-gA8b6r6yw6))
-- URL del sitio en vivo: [En vivo]([https://boudgnosis.github.io/stats-preview-card/](https://boudgnosis.github.io/3-column-preview-card/))
+- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/3columnpreviewcard-gA8b6r6yw6)
+- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/3-column-preview-card/)
 
 ## Mi Proceso
 
