@@ -1,6 +1,6 @@
 # Frontend Mentor - Solución al componente 3 column preview card
 
-Esta es una solución al [Desafío del componente 3 column preview card en Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
+Esta es una solución al [Desafío del componente 3 column preview card en Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
 
 ## Tabla de contenido
 
